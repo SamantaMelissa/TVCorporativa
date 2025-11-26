@@ -1,0 +1,12 @@
+import './App.css'
+import Cadastro from './pages/cadastro/Cadastro'
+import Login from './pages/login/Login'
+
+function App() {
+  return (
+   <Cadastro/>
+  //  <Login/>
+  )
+}
+
+export default App
